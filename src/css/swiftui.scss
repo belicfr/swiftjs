@@ -1,0 +1,16 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.v-stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.h-stack {
+  display: flex;
+}
+
+.spacer {
+  flex: 1;
+}
